@@ -1,0 +1,3 @@
+This project focuses on metaphor identification in Chinese poetry. 
+Give an object and detect if it has a metaphorical meaning in one poem based on topic distribution. 
+I use the LDA topic model to obtain the topic distribution.
